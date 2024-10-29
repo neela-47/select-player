@@ -1,0 +1,8 @@
+.btn1{
+    height: 40px;
+    width: 120px;
+    background-color: gainsboro;
+    border: 1px solid gray;
+    border-radius: 8px;
+    color: gray;
+}

@@ -1,0 +1,8 @@
+.available{
+    background-color: rgb(231, 229, 229);
+    padding: 10px;
+    border-radius: 6px;
+}
+.active{
+    background-color: yellow;
+}

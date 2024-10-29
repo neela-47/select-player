@@ -1,0 +1,153 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co.com/M54KRqt/Virat-Kohli.jpg",
+      "name": "Viral Kohli",
+      "country": "India",
+      "category": "All-Rounder",
+      "type": "Left-Hand-Bat",
+      "battingStyle": "Left-Hand-Bat",
+      "price": 1500000
+    },
+    { 
+      "id": 2,
+      "image": "https://i.ibb.co.com/V24nXnb/rohit-sharma.webp",
+      "name": "Rohit Sharma",
+      "country": "India",
+      "category": "Batsman",
+      "type": "Right-Hand-Bat",
+      "battingStyle": "Right-Hand-Bat",
+      "price": 1800000
+    },
+    { 
+      "id": 3,
+      "image": "https://i.ibb.co.com/rZLJbcy/steve-smith.jpg",
+      "name": "Steve Smith",
+      "country": "Australia",
+      "category": "Batsman",
+      "type": "Right-Hand-Bat",
+      "battingStyle": "Right-Hand-Bat",
+      "price": 1200000
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co.com/N32p2M2/kane-williamson.jpg",
+      "name": "Kane Williamson",
+      "country": "New Zealand",
+      "category": "Batsman",
+      "type": "Right-Hand-Bat",
+      "battingStyle": "Right-Hand-Bat",
+      "price": 1300000
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co.com/hgbyXtr/ben-stroke.jpg",
+      "name": "Ben Stokes",
+      "country": "England",
+      "category": "All-Rounder",
+      "type": "Left-Hand-Bat",
+      "battingStyle": "Left-Hand-Bat",
+      "price": 1400000
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co.com/23HWg1Q/davis-warner.jpg",
+      "name": "David Warner",
+      "country": "Australia",
+      "category": "Batsman",
+      "type": "Left-Hand-Bat",
+      "battingStyle": "Left-Hand-Bat",
+      "price": 1600000
+    },
+    {
+      "id": 7,
+      "image": "https://i.ibb.co.com/xSr5mt5/ab-de-villiers.jpg",
+      "name": "AB de Villiers",
+      "country": "South Africa",
+      "category": "Batsman",
+      "type": "Right-Hand-Bat",
+      "battingStyle": "Right-Hand-Bat",
+      "price": 1700000
+    },
+    { 
+      "id": 8,
+      "image": "https://i.ibb.co.com/kgv96pV/Jasprit-Bumrah.jpg",
+      "name": "Jasprit Bumrah",
+      "country": "India",
+      "category": "Bowler",
+      "type": "Right-Hand-Bat",
+      "battingStyle": "Right-Hand-Bat",
+      "price": 1100000
+    },
+    {
+      "id": 9,
+      "image": "https://i.ibb.co.com/ZxjsfCb/Pat-Cummins.jpg",
+      "name": "Pat Cummins",
+      "country": "Australia",
+      "category": "Bowler",
+      "type": "Right-Hand-Bat",
+      "battingStyle": "Right-Hand-Bat",
+      "price": 1400000
+    },
+    { 
+      "id": 10,
+      "image": "https://i.ibb.co.com/nr9TK92/quinton-de-kock.jpg",
+      "name": "Quinton de Kock",
+      "country": "South Africa",
+      "category": "Wicketkeeper",
+      "type": "Left-Hand-Bat",
+      "battingStyle": "Left-Hand-Bat",
+      "price": 1250000
+    },
+    {
+      "id": 11,
+      "image": "https://i.ibb.co.com/8xN4yvt/gaile.webp",
+      "name": "Chris Gayle",
+      "country": "West Indies",
+      "category": "Batsman",
+      "type": "Left-Hand-Bat",
+      "battingStyle": "Left-Hand-Bat",
+      "price": 1350000
+    },
+    {
+      "id": 12,
+      "image": "https://i.ibb.co.com/Cbxx0XZ/russell.jpg",
+      "name": "Andre Russell",
+      "country": "West Indies",
+      "category": "All-Rounder",
+      "type": "Right-Hand-Bat",
+      "battingStyle": "Right-Hand-Bat",
+      "price": 1450000
+    },
+    {
+      "id": 13,
+      "image": "https://i.ibb.co.com/D8khBCF/babr-azam.jpg",
+      "name": "Babar Azam",
+      "country": "Pakistan",
+      "category": "Batsman",
+      "type": "Right-Hand-Bat",
+      "battingStyle": "Right-Hand-Bat",
+      "price": 1550000
+    },
+    {
+      "id": 14,
+      "image": "https://i.ibb.co.com/5Bw79f5/shaheen-shah-afridi.jpg",
+      "name": "Shaheen Afridi",
+      "country": "Pakistan",
+      "category": "Bowler",
+      "type": "Left-Hand-Bat",
+      "battingStyle": "Left-Hand-Bat",
+      "price": 1300000
+    },
+    {
+      "id": 15,
+      "image": "https://i.ibb.co.com/vPMRZhN/trent-boult.jpg",
+      "name": "Trent Boult",
+      "country": "New Zealand",
+      "category": "Bowler",
+      "type": "Left-Hand-Bat",
+      "battingStyle": "Left-Hand-Bat",
+      "price": 1250000
+    }
+  ]
+  
